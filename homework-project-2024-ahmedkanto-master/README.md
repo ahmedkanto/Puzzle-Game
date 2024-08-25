@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f0r53tPY)
 # Labyrinth Puzzle Game
 
 The goal of the game is to navigate the blue ball to the square marked with the empty circle. In a move, the ball must be rolled up, right, down, or left. The ball moves until it reaches the wall around the labyrinth or an inner wall.
