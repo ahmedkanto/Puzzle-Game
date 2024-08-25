@@ -1,0 +1,14 @@
+{
+  "name": "homework-project-2024-ahmedkanto",
+  "version": "1.0.0",
+  "publishConfig": {
+    "@ahmedkanto:registry": "https://npm.pkg.github.com"
+  },
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f0r53tPY)\r # Lybyrinth Puzzle Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}

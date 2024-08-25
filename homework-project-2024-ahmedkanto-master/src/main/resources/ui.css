@@ -1,0 +1,12 @@
+.label {
+    font-size: 16px;
+}
+
+.table-view {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
